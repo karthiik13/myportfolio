@@ -1,0 +1,27 @@
+.profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+.landing-page{
+    background-color: #C4DFDF;
+}
+.resume{
+    background-color: #D2E9E9;
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+}
+.skills{
+    background-color: #E3F4F4;
+}
+
+.project{
+    background-color: #D2E9E9;
+}
+.aboutme{
+    background-color: #E3F4F4;
+}
